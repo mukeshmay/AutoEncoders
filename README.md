@@ -1,4 +1,5 @@
 # AutoEncoders
 
-Reccomendation was made using Auto Encoders.
-It was made for rating of the movies from 1-5.
+Reccomendation System application was made using Auto Encoders.
+
+It can predict what rating will be given by the user to a movie. The rating will be given from 1-5. 
